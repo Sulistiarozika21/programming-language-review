@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Programming Language Review</string>
+    <string name="title">judul</string>
+    <string name="description">description</string>
+    <string name="write_your_review_here">write your review here</string>
+    <string name="heroes_name">"name language "</string>
+    <string name="lang_name">name language</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+</resources>
